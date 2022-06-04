@@ -1,0 +1,7 @@
+After downloading the .7z file:
+
+right click the .7z file;
+click extract to "file name"
+
+in the new folder look for .exe
+double click the exe
